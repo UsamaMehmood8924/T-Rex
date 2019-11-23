@@ -1,5 +1,5 @@
 # T-Rex
-A famous game built by google developers for google chrome offline mood. Just like that, I build a T-Rex game in Assembly Language x86 using masm611.
+A famous game built by google developers for google chrome offline mode. Just like that, I build a T-Rex game in Assembly Language x86 using masm611.
 
 ## This game has the following features:
 1) The game starts with running of t-rex.
