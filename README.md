@@ -9,7 +9,7 @@ A famous game built by google developers for google chrome offline mood. Just li
 5) The previous high score is replaced with new high score otherwise, the previous high score maintains its state.
 6) you can quit the game by pressing 'q'.
 7) The user can play again by pressing space bar when t-rex dies.
-![Credits](/T-Rex/Image_1.png)
+![Credits](github.com/chuhan1043/T-Rex/Image_1.png)
 
 **How to run this game on your machine?**
 1. Install DosBox.
